@@ -18,7 +18,6 @@ After completing the course, the students should be able to:
 ## References
 - Right automatization (By Max Dorofeev) https://youtu.be/XDF02KmgJFE?t=1h6m26s
 - Enterprise Software Lifecycle Management - edX course - https://courses.edx.org/courses/course-v1:MEPhIx+MEPHI001x+2T2016
-- 
 
 ## Textbooks
 - Sommerville I. Software Engineering (9 ed.), Addison Wesley, 2011, 790 pp.
