@@ -33,3 +33,12 @@ Final Exam:       0%
 Total:            100%
 
 ```
+
+### Assignment Deadlines 'Spring 2018
+|                                          |  1  | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| ---------------------------------------- | --- |--- |--- |--- |--- |--- |--- |--- |--- |
+| Soft Deadline (50% reduction if missed)  | 10.03.2018 |10.03.2018 |24.03.2018 |31.03.2018 |07.04.2018 |21.04.2018 |28.04.2018 |05.05.2018 |19.05.2018 |
+| Hard Deadline (100% reduction if missed) | 17.03.2018 |24.03.2018 |31.03.2018 |07.04.2018 |21.04.2018 |28.04.2018 |05.05.2018 |19.05.2018 |26.05.2018 |
+
+Thus each passed assignment brings 1/9 (if passed in time) or 1/18 (if Soft Deadline missed).
+To get the credit you need to score 0.7 and more.
