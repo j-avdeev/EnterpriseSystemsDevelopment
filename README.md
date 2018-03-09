@@ -42,3 +42,6 @@ Total:            100%
 
 Thus each passed assignment brings 1/9 (if passed in time) or 1/18 (if Soft Deadline missed).
 To get the credit you need to score 0.7 and more.
+
+Results Table:
+https://docs.google.com/spreadsheets/d/1Eej5QFuSjHWqmcsKvQ_1tC6ieYxTwcTKlH-J95JirCU/edit?usp=sharing
