@@ -13,7 +13,9 @@
 ## Course Outcomes
 After completing the course, the students should be able to:
 - understand Enterprise Software purpose;
-- well understand current Enterprise Systems Development practices.
+- well understand current Enterprise Systems Development practices;
+- for Developers and Testers - better understand the process of product development;
+- for Management - understand colleagues and business to build a development process.
 
 ## References
 - Right automatization (By Max Dorofeev) https://youtu.be/XDF02KmgJFE?t=1h6m26s
