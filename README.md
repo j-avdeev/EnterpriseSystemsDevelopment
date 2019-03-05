@@ -46,4 +46,4 @@ Thus each passed assignment brings 1/5 (if passed in time) or 1/10 (if Soft Dead
 To get the credit you need to score 0.7 and more.
 
 Results Table:
-https://docs.google.com/spreadsheets/d/1Eej5QFuSjHWqmcsKvQ_1tC6ieYxTwcTKlH-J95JirCU/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1rme4m4wI-xo-ztqYCz-pvwVgZ2-1QusXkeV6ZNSFQnU/edit?usp=sharing
