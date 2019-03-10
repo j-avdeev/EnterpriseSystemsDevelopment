@@ -28,6 +28,8 @@ After completing the course, the students should be able to:
 - Zykov S.V. Crisis Management for Software Development and Knowledge Transfer, Springer, 2016
 - Fowler, Martin. UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd ed.).
 
+- Tom Wicker Facing the Lions, 1973 https://www.amazon.com/Facing-Lions-Tom-Wicker/dp/0670304484
+
 ### Course Evaluation
 ```
 Assignments:      100%
