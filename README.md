@@ -47,9 +47,9 @@ Total:            100%
 Thus each passed assignment brings 1/5 (if passed in time) or 1/10 (if Soft Deadline missed).
 To get the credit you need to score 0.7 and more.
 
-Points in grades conversion
+#### Points in grades conversion
 |Points | Mark |
-|-------|------|
+| ------- |------|
 |[1; 1+) | 5 |
 |[0.7; 1) | 4 |
 | [0.5; 0.7) | 3 |
