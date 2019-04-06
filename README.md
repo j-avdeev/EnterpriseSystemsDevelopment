@@ -41,8 +41,8 @@ Total:            100%
 ### Assignment Deadlines 'Spring 2019
 |                                          |  1  | 2 | 3 | 4 | 5 |
 | ---------------------------------------- | --- |--- |--- |--- |--- |
-| Soft Deadline (50% reduction if missed)  | 10.03.2019 |10.03.2019 |24.03.2019 |31.03.2019 |21.04.2019 |
-| Hard Deadline (100% reduction if missed) | 17.03.2019 |24.03.2019 |31.03.2019 |07.04.2019 |28.04.2019 |
+| Soft Deadline (50% reduction if missed)  | 10.03.2019 (0.2 pts)|10.03.2019 (0.2 pts)|24.03.2019 (0.2 pts)|31.03.2019 (0.2 pts)|~~21.04.2019~~ 28.04.2019 (0.4 pts)|
+| Hard Deadline (100% reduction if missed) | 17.03.2019 (0.1 pts)|24.03.2019 (0.1 pts)|31.03.2019 (0.1 pts)|07.04.2019 (0.1 pts)|~~28.04.2019~~ 05.05.2019 (0.2 pts)|
 
 Thus each passed assignment brings 1/5 (if passed in time) or 1/10 (if Soft Deadline missed).
 To get the credit you need to score 0.7 and more.
