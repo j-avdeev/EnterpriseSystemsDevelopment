@@ -31,7 +31,7 @@ After completing the course, the students should be able to:
 
 - Tom Wicker Facing the Lions, 1973 https://www.amazon.com/Facing-Lions-Tom-Wicker/dp/0670304484
 
-~~Единая система программной документации (Russian)~~
+- ~~Единая система программной документации (Russian)~~
 
 ### Course Evaluation
 ```
