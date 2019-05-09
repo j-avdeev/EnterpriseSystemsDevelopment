@@ -42,10 +42,10 @@ Total:            100%
 ```
 
 ### Assignment Deadlines 'Spring 2019
-|                                          |  1 UseCase | 2 IDEF | 3 Class | 4 BPMN | 5 Implement |
-| ---------------------------------------- | --- |--- |--- |--- |--- |
-| Soft Deadline (50% reduction if missed)  | 10.03.2019 (0.2 pts)|10.03.2019 (0.2 pts)|24.03.2019 (0.2 pts)|31.03.2019 (0.2 pts)|~~21.04.2019~~ 28.04.2019 (0.4 pts)|
-| Hard Deadline (100% reduction if missed) | 17.03.2019 (0.1 pts)|~~24.03.2019~~  12.05.2019 (0.1 pts)|31.03.2019 (0.1 pts)|~~07.04.2019~~ 12.05.2019 (0.1 pts)|~~28.04.2019~~ 05.05.2019 (0.2 pts)|
+|                                          |  1 UseCase | 2 IDEF | 3 Class | 4 BPMN | 5 Implement | 6 TC |
+| ---------------------------------------- | --- |--- |--- |--- |--- |--- |
+| Soft Deadline (50% reduction if missed)  | 10.03.2019 (0.2 pts)|10.03.2019 (0.2 pts)|24.03.2019 (0.2 pts)|31.03.2019 (0.2 pts)|~~21.04.2019~~ 28.04.2019 (0.4 pts)|26.05.2019 (0.4 pts)|
+| Hard Deadline (100% reduction if missed) | 17.03.2019 (0.1 pts)|~~24.03.2019~~  12.05.2019 (0.1 pts)|31.03.2019 (0.1 pts)|~~07.04.2019~~ 12.05.2019 (0.1 pts)|~~28.04.2019~~ 05.05.2019 (0.2 pts)|02.06.2019 (0.2 pts)|
 
 ~~Thus each passed assignment brings 1/5 (if passed in time) or 1/10 (if Soft Deadline missed).~~
 ~~To get the credit you need to score 0.7 and more.~~
