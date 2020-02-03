@@ -41,6 +41,9 @@ Total:            100%
 
 ```
 
+*All assignments of this course are parts of one single project. Laboratory 1-4 – theoretical part, 5 – practical.
+Thus, the results of laboratory work should be consistent with each other (old assignments may have issues with it) and be parts of a one single report.
+
 ### Assignment Deadlines 'Spring 2019
 |                                          |  1 UseCase | 2 IDEF | 3 Class | 4 BPMN | 5 Implement | 6 TC |
 | ---------------------------------------- | --- |--- |--- |--- |--- |--- |
