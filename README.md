@@ -66,4 +66,4 @@ Thus, the results of laboratory work should be consistent with each other (old a
 *additinal assignments
 
 Results Table:
-https://docs.google.com/spreadsheets/d/1rme4m4wI-xo-ztqYCz-pvwVgZ2-1QusXkeV6ZNSFQnU/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/15J-H2z7GX6OF3okCkwMULU2QGcFA6mS8uNwc-8qorU8/edit?usp=sharing
