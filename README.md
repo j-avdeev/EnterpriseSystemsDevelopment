@@ -47,10 +47,10 @@ Total:            100%
 Thus, the results of laboratory work should be consistent with each other (old assignments may have issues with it) and be parts of a one single report.
 
 ### Assignment Deadlines 'Spring 2019
-|                                          |  1 UseCase | 2 IDEF | 3 Class | 4 BPMN | 5 <ToDo> | 6 Implement |
+|                                          |  1 UseCase | 2 IDEF | 3 Class | 4 BPMN | 5 Activity, Sequnce, State | 6 Implement |
 | ---------------------------------------- | --- |--- |--- |--- |--- |--- |
-| Soft Deadline (50% reduction if missed)  | 05.03.2020 (0.2 pts)|19.03.2020 (0.2 pts)|02.04.2020 (0.2 pts)|16.04.2020 (0.2 pts)|30.04.2020 (0.4 pts)|14.05.2020 (0.4 pts)|
-| Hard Deadline (100% reduction if missed) | 12.03.2020 (0.1 pts)|26.03.2020  (0.1 pts)|09.04.2020 (0.1 pts)|23.04.2020 (0.1 pts)|07.05.2020 (0.2 pts)|21.05.2020 (0.2 pts)|
+| Soft Deadline (50% reduction if missed)  | 12.03.2020 (0.2 pts)|19.03.2020 (0.2 pts)|02.04.2020 (0.2 pts)|16.04.2020 (0.2 pts)|30.04.2020 (0.2 pts)|14.05.2020 (0.5 pts)|
+| Hard Deadline (100% reduction if missed) | 19.03.2020 (0.1 pts)|26.03.2020  (0.1 pts)|09.04.2020 (0.1 pts)|23.04.2020 (0.1 pts)|07.05.2020 (0.1 pts)|21.05.2020 (0.2 pts)|
 
 ~~Thus each passed assignment brings 1/5 (if passed in time) or 1/10 (if Soft Deadline missed).~~
 ~~To get the credit you need to score 0.7 and more.~~
