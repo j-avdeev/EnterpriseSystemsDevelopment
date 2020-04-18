@@ -3,10 +3,10 @@
 Evgeniy Avdeev (j-avdeev@yandex.ru), Anastasiya Menshikova (menshikova.ssau@gmail.com).
 
 ## Course Outline
-1. Introducing the terminology
-2. Software lifecycle models
-3. Rational Unified Process
-4. Agile overview
+1. Introducing the terminology | https://www.youtube.com/watch?v=w-DTrgdqhpM
+2. Software lifecycle models | https://www.youtube.com/watch?v=hZHHZn7CeIE
+3. Rational Unified Process | https://www.youtube.com/watch?v=fAAr3_YV06o
+4. Agile overview | https://www.youtube.com/watch?v=HN5NmVAdW6Q
 5. Unified Modeling Language (UML)
 6. UML Diagramms
 7. Case study: Airport
