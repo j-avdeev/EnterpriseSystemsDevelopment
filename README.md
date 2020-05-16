@@ -7,7 +7,7 @@ Evgeniy Avdeev (j-avdeev@yandex.ru), Anastasiya Menshikova (menshikova.ssau@gmai
 2. Software lifecycle models | https://www.youtube.com/watch?v=hZHHZn7CeIE
 3. Rational Unified Process | https://www.youtube.com/watch?v=fAAr3_YV06o
 4. Agile overview | https://www.youtube.com/watch?v=HN5NmVAdW6Q
-5. Unified Modeling Language (UML)
+5. Unified Modeling Language (UML). Use case, Class diagramms |  https://www.youtube.com/watch?v=3KpeGOENDsM
 6. UML Diagramms
 7. Case study: Airport
 8. Software Development AntiPatterns
