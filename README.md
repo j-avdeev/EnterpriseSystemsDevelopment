@@ -25,6 +25,7 @@ After completing the course, the students should be able to:
 - ITIL https://en.wikipedia.org/wiki/ITIL
 - ITSM https://en.wikipedia.org/wiki/IT_service_management
 - Data center management and Business-service management https://en.wikipedia.org/wiki/Data_center_management
+- [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 
 ## Textbooks
 - Sommerville I. Software Engineering (9 ed.), Addison Wesley, 2011, 790 pp.
