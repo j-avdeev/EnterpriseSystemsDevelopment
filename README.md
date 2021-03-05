@@ -56,8 +56,8 @@ Thus, the results of laboratory work should be consistent with each other (old a
 ### Assignment Deadlines 'Spring 2019
 |                                          |  1 UseCase | 2 IDEF | 3 Class | 4 BPMN | 5 Activity, Sequnce, State | 6 Implement |
 | ---------------------------------------- | --- |--- |--- |--- |--- |--- |
-| Soft Deadline (50% reduction if missed)  | 12.03.2020 (0.2 pts)|19.03.2020 (0.2 pts)|09.04.2020 (0.2 pts)|23.04.2020 (0.2 pts)|07.05.2020 (0.2 pts)|04.06.2020 (0.6 pts)|
-| Hard Deadline (100% reduction if missed) | 19.03.2020 (0.1 pts)|26.03.2020  (0.1 pts)|16.04.2020 (0.1 pts)|30.04.2020 (0.1 pts)|14.05.2020 (0.1 pts)|11.06.2020 (0.3 pts)|
+| Soft Deadline (50% reduction if missed)  | 21.03.2021 (0.2 pts)|04.04.2021 (0.2 pts)|11.04.2021 (0.2 pts)|18.04.2021 (0.2 pts)|25.04.2021 (0.2 pts)|16.05.2021 (0.6 pts)|
+| Hard Deadline (100% reduction if missed) | 28.03.2021 (0.1 pts)|11.04.2021  (0.1 pts)|18.04.2021 (0.1 pts)|25.04.2021 (0.1 pts)|02.05.2021 (0.1 pts)|23.05.2021 (0.3 pts)|
 
 The 6th Assignment is mandatory,
 but may be of poor quality if all 5 previous labs were delivered on time.
@@ -76,4 +76,4 @@ but may be of poor quality if all 5 previous labs were delivered on time.
 *additinal assignments
 
 Results Table:
-https://docs.google.com/spreadsheets/d/15J-H2z7GX6OF3okCkwMULU2QGcFA6mS8uNwc-8qorU8/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1XUbmWz7JKj9ZVjHZW8lhGkihvm6B25NvOK356DpEem8/edit?usp=sharing
