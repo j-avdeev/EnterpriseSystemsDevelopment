@@ -7,10 +7,17 @@ Evgeniy Avdeev (j-avdeev@yandex.ru), Anastasiya Menshikova (menshikova.ssau@gmai
 2. Software lifecycle models | https://www.youtube.com/watch?v=hZHHZn7CeIE
 3. Rational Unified Process | https://www.youtube.com/watch?v=fAAr3_YV06o
 4. Agile overview | https://www.youtube.com/watch?v=HN5NmVAdW6Q
-5. Unified Modeling Language (UML). Use case, Class diagramms |  https://www.youtube.com/watch?v=3KpeGOENDsM
+5. Unified Modeling Language (UML). Use case, Class diagramms | https://www.youtube.com/watch?v=3KpeGOENDsM
 6. UML Diagramms
 7. Case study: Airport
 8. Software Development AntiPatterns
+
+## Assignments
+1. [UseCase] (https://www.youtube.com/watch?v=1g9HF3ju5AE)
+2. Activity, Sequnce, State
+3. IDEF
+4. Class
+5. BPMN
 
 ## Course Outcomes
 After completing the course, the students should be able to:
@@ -20,13 +27,13 @@ After completing the course, the students should be able to:
 - for Management - understand colleagues and business to build a development process.
 
 ## References
-- Right automatization (By Max Dorofeev) https://youtu.be/XDF02KmgJFE?t=1h6m26s
 - Enterprise Software Lifecycle Management - edX course - https://courses.edx.org/courses/course-v1:MEPhIx+MEPHI001x+2T2016
 - ITIL https://en.wikipedia.org/wiki/ITIL
 - ITSM https://en.wikipedia.org/wiki/IT_service_management
 - Data center management and Business-service management https://en.wikipedia.org/wiki/Data_center_management
 - [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer#how-to-approach-a-system-design-interview-question)
+- Right automatization (By Max Dorofeev) https://youtu.be/XDF02KmgJFE?t=1h6m26s
 
 ## Textbooks
 - Sommerville I. Software Engineering (9 ed.), Addison Wesley, 2011, 790 pp.
@@ -54,7 +61,7 @@ Total:            100%
 Thus, the results of laboratory work should be consistent with each other (old assignments may have issues with it) and be parts of a one single report.
 
 ### Assignment Deadlines 'Spring 2019
-|                                          |  1 UseCase | 2 IDEF | 3 Class | 4 BPMN | 5 Activity, Sequnce, State | 6 Implement |
+|                                          |  1 UseCase | 2 Activity, Sequence, State | 3 IDEF | 4 Class | 5 BPMN | 6 Implement |
 | ---------------------------------------- | --- |--- |--- |--- |--- |--- |
 | Soft Deadline (50% reduction if missed)  | 21.03.2021 (0.2 pts)|04.04.2021 (0.2 pts)|11.04.2021 (0.2 pts)|18.04.2021 (0.2 pts)|25.04.2021 (0.2 pts)|16.05.2021 (0.6 pts)|
 | Hard Deadline (100% reduction if missed) | 28.03.2021 (0.1 pts)|11.04.2021  (0.1 pts)|18.04.2021 (0.1 pts)|25.04.2021 (0.1 pts)|02.05.2021 (0.1 pts)|23.05.2021 (0.3 pts)|
