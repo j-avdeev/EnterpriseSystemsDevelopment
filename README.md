@@ -36,16 +36,16 @@ After completing the course, the students should be able to:
 - Right automatization (By Max Dorofeev) https://youtu.be/XDF02KmgJFE?t=1h6m26s
 
 ## Textbooks
+### Diagrams with examples
 - Sommerville I. Software Engineering (9 ed.), Addison Wesley, 2011, 790 pp.
 - Schach S.R. Object Oriented and Classical Software (8 ed.), McGraw-Hill, 2011, 688 pp.
+### Software design hints with code examples
 - McConnell S. Code Complete. Microsoft Press, 1993
-- Zykov S.V. Crisis Management for Software Development and Knowledge Transfer, Springer, 2016
+### About UML
 - Fowler, Martin. UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd ed.).
-Russian:
+### Russian:
 - Себастьян Дашнер. Изучаем Java EE. Современное программирование для больших предприятий. — СПб.: «Питер», 2018.
 - Арун Гупта. Java EE 7. Основы = Java EE 7 Essentials. — М.: «Вильямс», 2014.
-
-- Tom Wicker Facing the Lions, 1973 https://www.amazon.com/Facing-Lions-Tom-Wicker/dp/0670304484
 
 - ~~Единая система программной документации (Russian)~~
 
