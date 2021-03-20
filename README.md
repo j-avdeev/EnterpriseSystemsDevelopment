@@ -11,6 +11,8 @@ Evgeniy Avdeev (j-avdeev@yandex.ru), Anastasiya Menshikova (menshikova.ssau@gmai
 6. UML Diagramms
 7. Case study: Airport
 8. Software Development AntiPatterns
+9. [CUBA Platform: 20-минутный быстрый старт за 2 часа](https://youtu.be/jxFJx4f1Ngs)
+10. [CUBA Platform: BPM](https://youtu.be/LgMk9AqtZ6M)
 
 ## Assignments
 1. [UseCase] (https://www.youtube.com/watch?v=1g9HF3ju5AE)
