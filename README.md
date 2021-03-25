@@ -63,7 +63,7 @@ Total:            100%
 Thus, the results of laboratory work should be consistent with each other (old assignments may have issues with it) and be parts of a one single report.
 
 ### Assignment Deadlines 'Spring 2019
-|                                          |  1 UseCase | 2 Activity, Sequence, State | 3 IDEF | 4 Class | 5 BPMN | 6 Implement |
+|                                          |  1 UseCase | 2 Scenarios | 3 IDEF | 4 BPMN | 5 Class | 6 Implement |
 | ---------------------------------------- | --- |--- |--- |--- |--- |--- |
 | Soft Deadline (50% reduction if missed)  | 21.03.2021 (0.2 pts)|04.04.2021 (0.2 pts)|11.04.2021 (0.2 pts)|18.04.2021 (0.2 pts)|25.04.2021 (0.2 pts)|16.05.2021 (0.6 pts)|
 | Hard Deadline (100% reduction if missed) | 28.03.2021 (0.1 pts)|11.04.2021  (0.1 pts)|18.04.2021 (0.1 pts)|25.04.2021 (0.1 pts)|02.05.2021 (0.1 pts)|23.05.2021 (0.3 pts)|
