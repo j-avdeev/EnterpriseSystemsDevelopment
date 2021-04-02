@@ -16,10 +16,10 @@ Evgeniy Avdeev (j-avdeev@yandex.ru), Anastasiya Menshikova (menshikova.ssau@gmai
 
 ## Assignments
 1. [UseCase] (https://www.youtube.com/watch?v=1g9HF3ju5AE)
-2. Activity, Sequnce, State
+2. Scenarios
 3. IDEF
-4. Class
-5. BPMN
+4. BPMN
+5. Class
 
 ## Course Outcomes
 After completing the course, the students should be able to:
