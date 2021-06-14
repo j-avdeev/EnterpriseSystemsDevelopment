@@ -62,7 +62,7 @@ Total:            100%
 *All assignments of this course are parts of one single project. Laboratory 1-4 – theoretical part, 5 – practical.
 Thus, the results of laboratory work should be consistent with each other (old assignments may have issues with it) and be parts of a one single report.
 
-### Assignment Deadlines 'Spring 2019
+### Assignment Deadlines 'Spring 2021
 |                                          |  1 UseCase | 2 Scenarios | 3 IDEF | 4 BPMN | 5 Class | 6 Implement |
 | ---------------------------------------- | --- |--- |--- |--- |--- |--- |
 | Soft Deadline (50% reduction if missed)  | 21.03.2021 (0.2 pts)|04.04.2021 (0.2 pts)|11.04.2021 (0.2 pts)|18.04.2021 (0.2 pts)|25.04.2021 (0.2 pts)|06.06.2021 (0.6 pts)|
