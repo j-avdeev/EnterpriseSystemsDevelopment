@@ -1,0 +1,1 @@
+create index IDX_LAB6CUBA_CAR_MODEL on LAB6CUBA_CAR (MODEL);
