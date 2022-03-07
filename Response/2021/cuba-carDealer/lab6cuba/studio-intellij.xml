@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CubaPluginProjectSettings">
+    <option name="groupUpdateScriptsBy" value="MONTH" />
+    <option name="stateVersion" value="1" />
+    <option name="savedDbProperties">
+      <list>
+        <SavedDbProperties>
+          <option name="databaseName" value="dealerchain" />
+          <option name="dbType" value="postgres" />
+          <option name="dbmsVersion" />
+          <option name="host" value="localhost" />
+          <option name="pass" value="12345" />
+          <option name="systemPassword" value="" />
+          <option name="systemUser" value="" />
+          <option name="url" value="jdbc:postgresql://localhost/dealerchain" />
+          <option name="user" value="postgres" />
+        </SavedDbProperties>
+      </list>
+    </option>
+  </component>
+</project>

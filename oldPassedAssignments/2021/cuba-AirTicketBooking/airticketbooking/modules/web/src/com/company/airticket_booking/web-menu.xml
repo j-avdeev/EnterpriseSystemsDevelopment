@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<menu-config xmlns="http://schemas.haulmont.com/cuba/menu.xsd">
-    <menu id="application-airticketbooking" insertBefore="administration" caption="mainMsg://menu_config.application-airticketbooking">
-        <item screen="airticketbooking_Passanger.browse"
-              caption="mainMsg://menu_config.airticketbooking_Passanger.browse"/>
-        <item screen="airticketbooking_Ticket.browse" caption="mainMsg://menu_config.airticketbooking_Ticket.browse"/>
-        <item screen="airticketbooking_Order.browse" caption="mainMsg://menu_config.airticketbooking_Order.browse"/>
-    </menu>
-</menu-config>

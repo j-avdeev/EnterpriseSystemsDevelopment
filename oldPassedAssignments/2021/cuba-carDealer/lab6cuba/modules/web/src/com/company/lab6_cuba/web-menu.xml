@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<menu-config xmlns="http://schemas.haulmont.com/cuba/menu.xsd">
-    <menu id="application-lab6cuba" insertBefore="administration" caption="mainMsg://menu_config.application-lab6cuba">
-        <item screen="lab6cuba_Car.browse" caption="mainMsg://menu_config.lab6cuba_Car.browse"/>
-        <item screen="lab6cuba_TestDrive.browse" caption="mainMsg://menu_config.lab6cuba_TestDrive.browse"/>
-    </menu>
-</menu-config>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/screen/window.xsd"
+        caption="msg://cartEdit.caption"
+        focusComponent="form"
+        messagesPack="com.company.bookshop.web.screens.cart">
+    <data>
+        <instance id="cartDc"
+                  class="com.company.bookshop.entity.Cart">
+            <view extends="_local">
+                <property name="book" view="_minimal">
+                    <property name="author"/>
+                    <property name="bookName"/>
+                </property>
+                <property name="customer" view="_minimal"/>
+                <property name="order" view="_minimal">
+                    <property name="orderStatus"/>
+                </property>
+            </view>
+            <loader/>
+        </instance>
+    </data>
+    <dialogMode height="600"
+                width="800"/>
+    <layout expand="editActions" spacing="true">
+        <form id="form" dataContainer="cartDc">
+            <column width="350px">
+                <pickerField id="bookField" property="book">
+                    <actions>
+                        <action id="lookup" type="picker_lookup"/>
+                        <action id="clear" type="picker_clear"/>
+                    </actions>
+                </pickerField>
+                <pickerField id="customerField" property="customer">
+                    <actions>
+                        <action id="lookup" type="picker_lookup"/>
+                        <action id="clear" type="picker_clear"/>
+                    </actions>
+                </pickerField>
+                <pickerField id="orderField" property="order">
+                    <actions>
+                        <action id="lookup" type="picker_lookup"/>
+                        <action id="clear" type="picker_clear"/>
+                    </actions>
+                </pickerField>
+                <textField id="quantityField" property="quantity"/>
+                <textField id="discountField" property="discount"/>
+            </column>
+        </form>
+        <hbox id="editActions" spacing="true">
+            <button id="commitAndCloseBtn" action="windowCommitAndClose"/>
+            <button id="closeBtn" action="windowClose"/>
+        </hbox>
+    </layout>
+</window>

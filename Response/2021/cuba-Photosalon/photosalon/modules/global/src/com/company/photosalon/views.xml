@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<views xmlns="http://schemas.haulmont.com/cuba/view.xsd">
+
+    <view entity="photosalon_OrderLine" name="orderLine-with-order" extends="_local">
+        <property name="order" view="_minimal">
+            <property name="order_info"/>
+            <property name="delivery_info"/>
+            <property name="customer_info" view="_minimal">
+                <property name="custName"/>
+                <property name="addres"/>
+            </property>
+            <property name="transaction_info"/>
+        </property>
+    </view>
+    <view entity="photosalon_Order" name="order-with-customer" extends="_local">
+        <property name="customer_info" view="_minimal">
+            <property name="custName"/>
+            <property name="addres"/>
+        </property>
+    </view>
+    <view entity="photosalon_OrderLine" name="orderLine-with-product" extends="_local">
+        <property name="product" view="_minimal">
+            <property name="prodName"/>
+            <property name="volume"/>
+            <property name="cost"/>
+        </property>
+    </view>
+    <view entity="photosalon_Order" name="order-edit" extends="_local">
+        <property name="orderLine" view="_minimal">
+            <property name="product" view="_minimal">
+                <property name="prodName"/>
+                <property name="volume"/>
+                <property name="cost"/>
+            </property>
+            <property name="volume"/>
+        </property>
+        <property name="customer_info" view="_minimal">
+            <property name="custName"/>
+            <property name="addres"/>
+        </property>
+    </view>
+</views>

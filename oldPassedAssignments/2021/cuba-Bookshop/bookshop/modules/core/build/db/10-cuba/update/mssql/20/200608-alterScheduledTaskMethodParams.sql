@@ -1,1 +1,0 @@
-alter table SYS_SCHEDULED_TASK alter column METHOD_PARAMS varchar(4000);

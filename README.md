@@ -14,19 +14,19 @@ Evgeniy Avdeev (j-avdeev@yandex.ru), Anastasiya Menshikova (menshikova.ssau@gmai
 9. [CUBA Platform: 20-минутный быстрый старт за 2 часа](https://youtu.be/jxFJx4f1Ngs)
 10. [CUBA Platform: BPM](https://youtu.be/LgMk9AqtZ6M)
 
-## Assignments
-1. [UseCase] (https://www.youtube.com/watch?v=1g9HF3ju5AE)
-2. Scenarios
-3. IDEF
-4. BPMN
-5. Class
-
 ## Course Outcomes
 After completing the course, the students should be able to:
 - understand Enterprise Software purpose;
 - well understand current Enterprise Systems Development practices;
 - for Developers and Testers - better understand the process of product development;
 - for Management - understand colleagues and business to build a development process.
+
+## Videos
+1. IDEF
+2. Scenarios
+3. [UseCase] (https://www.youtube.com/watch?v=1g9HF3ju5AE)
+4. BPMN
+5. Class
 
 ## References
 - Enterprise Software Lifecycle Management - edX course - https://courses.edx.org/courses/course-v1:MEPhIx+MEPHI001x+2T2016
@@ -63,12 +63,12 @@ Total:            100%
 Thus, the results of laboratory work should be consistent with each other (old assignments may have issues with it) and be parts of a one single report.
 
 ### Assignment Deadlines 'Spring 2021
-|                                          |  1 UseCase | 2 Scenarios | 3 IDEF | 4 BPMN | 5 Class | 6 Implement |
+|                                          |  1 IDEF | ?2 UseCase | ?3 Scenarios | ?4 BPMN | ?5 Class | ?6 Implement |
 | ---------------------------------------- | --- |--- |--- |--- |--- |--- |
-| Soft Deadline (50% reduction if missed)  | 21.03.2021 (0.2 pts)|04.04.2021 (0.2 pts)|11.04.2021 (0.2 pts)|18.04.2021 (0.2 pts)|25.04.2021 (0.2 pts)|06.06.2021 (0.6 pts)|
-| Hard Deadline (100% reduction if missed) | 28.03.2021 (0.1 pts)|11.04.2021  (0.1 pts)|18.04.2021 (0.1 pts)|25.04.2021 (0.1 pts)|02.05.2021 (0.1 pts)|13.06.2021 (0.3 pts)|
+| Soft Deadline (50% reduction if missed)  | 19.03.2022 (0.2 pts)|?04.04.2021 (0.2 pts)|?11.04.2021 (0.2 pts)|?18.04.2021 (0.2 pts)|?25.04.2021 (0.2 pts)|06.06.2021 (0.6 pts)|
+| Hard Deadline (100% reduction if missed) | 26.03.2022 (0.1 pts)|?11.04.2021  (0.1 pts)|?18.04.2021 (0.1 pts)|?25.04.2021 (0.1 pts)|?02.05.2021 (0.1 pts)|13.06.2021 (0.3 pts)|
 
-The 6th Assignment is mandatory,
+The 6th Assignment is mandatory to try,
 but may be of poor quality if all 5 previous labs were delivered on time.
 
 ~~Thus each passed assignment brings 1/5 (if passed in time) or 1/10 (if Soft Deadline missed).~~
@@ -77,10 +77,10 @@ but may be of poor quality if all 5 previous labs were delivered on time.
 #### Points in grades conversion
 |Points | Mark |
 | ------- |------|
-|[1.1; 1.1+) | 5 |
-|[0.7; 1.1) | 4 |
-| [0.5; 0.7) | 3 |
-| [0 ; 0.5) | 2* |
+|[1.1; 1.1+) | ?5 |
+|[0.7; 1.1) | ?4 |
+| [0.5; 0.7) | ?3 |
+| [0 ; 0.5) | ?2* |
 
 *additinal assignments
 

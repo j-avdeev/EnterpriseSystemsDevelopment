@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/screen/window.xsd"
+        xmlns:c="http://schemas.haulmont.com/cuba/screen/jpql_condition.xsd"
+        caption="msg://cartBrowse.caption"
+        focusComponent="cartsTable"
+        messagesPack="com.company.bookshop.web.screens.cart">
+    <data readOnly="true">
+        <collection id="cartsDc"
+                    class="com.company.bookshop.entity.Cart">
+            <view extends="_local">
+                <property name="book" view="_minimal">
+                    <property name="author"/>
+                    <property name="bookName"/>
+                </property>
+                <property name="customer" view="_minimal"/>
+                <property name="order" view="_minimal">
+                    <property name="orderStatus"/>
+                </property>
+            </view>
+            <loader id="cartsDl">
+                <query>
+                    <![CDATA[select e from bookshop_Cart e]]>
+                </query>
+            </loader>
+        </collection>
+    </data>
+    <dialogMode height="600"
+                width="800"/>
+    <layout expand="cartsTable"
+            spacing="true">
+        <filter id="filter"
+                applyTo="cartsTable"
+                dataLoader="cartsDl">
+            <properties include=".*"/>
+        </filter>
+        <groupTable id="cartsTable"
+                    width="100%"
+                    dataContainer="cartsDc">
+            <actions>
+                <action id="create" type="create"/>
+                <action id="edit" type="edit"/>
+                <action id="remove" type="remove"/>
+            </actions>
+            <columns>
+                <column id="book"/>
+                <column id="customer"/>
+                <column id="order"/>
+                <column id="quantity"/>
+                <column id="discount"/>
+            </columns>
+            <rowsCount/>
+            <buttonsPanel id="buttonsPanel"
+                          alwaysVisible="true">
+                <button id="createBtn" action="cartsTable.create"/>
+                <button id="editBtn" action="cartsTable.edit"/>
+                <button id="removeBtn" action="cartsTable.remove"/>
+            </buttonsPanel>
+        </groupTable>
+        <hbox id="lookupActions" spacing="true" visible="false">
+            <button action="lookupSelectAction"/>
+            <button action="lookupCancelAction"/>
+        </hbox>
+    </layout>
+</window>

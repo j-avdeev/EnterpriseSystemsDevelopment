@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Broken phone</title>
+    <!-- версия для разработки, включает отображение полезных предупреждений в консоли -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue-resource@1.5.1"></script>
+    <script th:inline="javascript">
+        var frontendData = [[${frontendData}]];
+    </script>
+</head>
+<body>
+<h3>Broken phone</h3>
+<!--<p><img class="img" src="../static/js/123.jpg" alt="1111"></p>-->
+<!--<img src="../static/js/123.jpg" height="316" width="512"/>-->
+<div id="app"></div>
+<script src="/js/main.js"></script>
+</body>
+</html>
