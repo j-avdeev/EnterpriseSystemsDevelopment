@@ -62,11 +62,11 @@ Total:            100%
 *All assignments of this course are parts of one single project. Laboratory 1-4 – theoretical part, 5 – practical.
 Thus, the results of laboratory work should be consistent with each other (old assignments may have issues with it) and be parts of a one single report.
 
-### Assignment Deadlines 'Spring 2021
-|                                          |  1 IDEF | 2 UseCase. Scenarios. UI | ?3 Scenarios | ?4 BPMN | ?5 Class | ?6 Implement |
+### Assignment Deadlines 'Spring 2022
+|                                          |  1 IDEF | 2 UseCase. Scenarios. UI | 3 BPMN | 4 Sequence.State.Activity | 5 Class | 6 MVP |
 | ---------------------------------------- | --- |--- |--- |--- |--- |--- |
-| Soft Deadline (50% reduction if missed)  | 19.03.2022 (0.2 pts)| 02.04.2022 (0.2 pts)|?11.04.2021 (0.2 pts)|?18.04.2021 (0.2 pts)|?25.04.2021 (0.2 pts)|06.06.2021 (0.6 pts)|
-| Hard Deadline (100% reduction if missed) | 26.03.2022 (0.1 pts)| 09.04.2022  (0.1 pts)|?18.04.2021 (0.1 pts)|?25.04.2021 (0.1 pts)|?02.05.2021 (0.1 pts)|13.06.2021 (0.3 pts)|
+| Soft Deadline (50% reduction if missed)  | 19.03.2022 (0.2 pts)| 02.04.2022 (0.2 pts)|23.04.2022 (0.2 pts)|07.05.2022 (0.2 pts)|21.05.2022 (0.2 pts)| 04.06.2022 (0.6 pts)|
+| Hard Deadline (100% reduction if missed) | 26.03.2022 (0.15 pts)| 09.04.2022  (0.15 pts)|30.04.2022 (0.15 pts)|14.05.2022 (0.15 pts)|28.05.2022 (0.15 pts)| 11.06.2022 (0.4 pts)|
 
 The 6th Assignment is mandatory to try,
 but may be of poor quality if all 5 previous labs were delivered on time.
@@ -77,12 +77,12 @@ but may be of poor quality if all 5 previous labs were delivered on time.
 #### Points in grades conversion
 |Points | Mark |
 | ------- |------|
-|[1.1; 1.1+) | ?5 |
-|[0.7; 1.1) | ?4 |
-| [0.5; 0.7) | ?3 |
-| [0 ; 0.5) | ?2* |
+|[1.1; 1.1+) | 5 |
+|[0.9; 1.1) | 4 |
+| [0.7; 0.9) | 3 |
+| [0 ; 0.7) | 2* |
 
 *additinal assignments
 
 Results Table:
-https://docs.google.com/spreadsheets/d/1XUbmWz7JKj9ZVjHZW8lhGkihvm6B25NvOK356DpEem8/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1pWA8kv66nPgoJSR79t5CmPnKm-cbcsA4VxY6oBRlyyg/edit?usp=sharing
