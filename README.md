@@ -85,4 +85,4 @@ but may be of poor quality if all 5 previous labs were delivered on time.
 *additinal assignments
 
 Results Table:
-https://docs.google.com/spreadsheets/d/1pWA8kv66nPgoJSR79t5CmPnKm-cbcsA4VxY6oBRlyyg/edit?usp=sharing
+[https://docs.google.com/spreadsheets/d/1pWA8kv66nPgoJSR79t5CmPnKm-cbcsA4VxY6oBRlyyg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Uqb_GL18XALEPgsqlyWtDb13RlkEoKVuFtO64qd23OA)https://docs.google.com/spreadsheets/d/1Uqb_GL18XALEPgsqlyWtDb13RlkEoKVuFtO64qd23OA
