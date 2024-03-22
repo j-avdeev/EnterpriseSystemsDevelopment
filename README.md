@@ -65,8 +65,8 @@ Thus, the results of laboratory work should be consistent with each other (old a
 ### Assignment Deadlines 'Spring 2022
 |                                          |  1 IDEF | 2 UseCase. Scenarios. UI | 3 BPMN | 4 Sequence.State.Activity | 5 Class | 6 MVP |
 | ---------------------------------------- | --- |--- |--- |--- |--- |--- |
-| Soft Deadline (50% reduction if missed)  | 19.03.2022 (0.2 pts)| 02.04.2022 (0.2 pts)|23.04.2022 (0.2 pts)|07.05.2022 (0.2 pts)|21.05.2022 (0.2 pts)| 04.06.2022 (0.6 pts)|
-| Hard Deadline (100% reduction if missed) | 26.03.2022 (0.15 pts)| 09.04.2022  (0.15 pts)|30.04.2022 (0.15 pts)|14.05.2022 (0.15 pts)|28.05.2022 (0.15 pts)| 11.06.2022 (0.4 pts)|
+| Soft Deadline (50% reduction if missed)  | 7.04.2024 (0.2 pts)| 14.04.2024 (0.2 pts)|21.04.2024 (0.2 pts)|05.05.2024 (0.2 pts)|19.05.2024 (0.2 pts)| 02.06.2024 (0.6 pts)|
+| Hard Deadline (100% reduction if missed) | 14.04.2024 (0.15 pts)| 21.04.2024  (0.15 pts)|28.04.2024 (0.15 pts)|12.05.2024 (0.15 pts)|26.05.2024 (0.15 pts)| 09.06.2024 (0.4 pts)|
 
 The 6th Assignment is mandatory to try,
 but may be of poor quality if all 5 previous labs were delivered on time.
