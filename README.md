@@ -62,7 +62,7 @@ Total:            100%
 *All assignments of this course are parts of one single project. Laboratory 1-4 – theoretical part, 5 – practical.
 Thus, the results of laboratory work should be consistent with each other (old assignments may have issues with it) and be parts of a one single report.
 
-### Assignment Deadlines 'Spring 2022
+### Assignment Deadlines 'Spring 2024
 |                                          |  1 IDEF | 2 UseCase. Scenarios. UI | 3 BPMN | 4 Sequence.State.Activity | 5 Class | 6 MVP |
 | ---------------------------------------- | --- |--- |--- |--- |--- |--- |
 | Soft Deadline (50% reduction if missed)  | 7.04.2024 (0.2 pts)| 14.04.2024 (0.2 pts)|21.04.2024 (0.2 pts)|05.05.2024 (0.2 pts)|19.05.2024 (0.2 pts)| 02.06.2024 (0.6 pts)|
